@@ -1,14 +1,12 @@
 ---
 title: Intermediate Rails
-date: '2017-08-16'
+date: '2017-08-16 12:04'
 time: '12:04'
 tags:
   - Rails
   - Ruby
 category: development
 ---
-
-# Intermediate Rails
 
 In my journey of developing rails, I always found it difficult to move from being an "Advanced beginner" to being an intermediate or mid-level developer. While that has been my title for a while I always had this feeling like I had not really mastered the concepts or moved on from that beginner stage. I always found it to be that there were so many beginner tutorials that explained ruby or rails at a 101 level and explained what OOP or MVC were but then you were on your own as a so-called "journeyman." Then there were all kinds of resources about how to do either super specific or advanced things with Ruby on Rails. There was kind of nothing to bridge the gap between the two sets of ideas except experience it seemed.
 
