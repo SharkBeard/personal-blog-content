@@ -1,6 +1,7 @@
 ---
 title: Start Something
-date: '2016-11-14 12:29'
+date: '2017-11-14 12:29'
+original_date: '2016-11-14 12:29'
 time: '12:29'
 tags:
   - Development
@@ -14,32 +15,30 @@ This blog is my attempt to get past what I feel many developers struggle with. I
 
 > "I need to clean it up a little first."
 
-I can't tell you how many times I've heard some variant of this when asking why doesn't a newer developer open source a project or why their Github is so empty. Just upload it. If you think it is messy or you are embarrassed of the code, one of three things will happen. 
+I cannot tell you how many times I have heard some variant of this when asking why a newer developer doesn't open source a project or why their Github is so empty. Just upload it. If you think it is messy or you are embarrassed of the code, one of three things will happen. 
 
 1. Nobody will see it or care
 1. It will help a developer even newer than you
 1. Someone will come, fork your work, and clean it up for you.
 
-No matter what happens, you will not die and your career won't be ruined. I am very guilty of being trapped in this thought pattern myself, as much as my personal beliefs make me think information should be freely shared between everyone. My advice for getting over this will be to just upload the repository *without* bothering to "clean it up" or even have it be functional yet. It will just increase your motivation to work on said project once it is visible to everyone.
+Either someone learns something or you get the some result if you didn't upload it: nothing. No matter what happens, you will not die and your career won't be ruined. I am very guilty of being trapped in this thought pattern myself, as much as my personal beliefs make me think information should be freely shared between everyone. My advice for getting over this will be to just upload the repository *without* bothering to "clean it up" or even have it be functional yet. It will just increase your motivation to work on said project once it is visible to everyone.
 
 ## Blogging
 
+> "I have nothing to teach people."
+
+> "I don't have time."
+
 ## Stack overflow
+
+## Asking for help
+
+This is a big one. I've seen people struggle for hours on something when the person sitting at the desk next to them has the answer in thier head. Sometimes a fresh perspective or fresh pair of eyes are all it takes to solve a problem. Sometimes a developer who has had experience in the area can prevent you from chasing a red herring down a rabbit hole. 
+
+Any developers who value teamwork and learning will be happy to answer questions when they have the time. Asking for help or advice is not a weakness, it is a strength. 
 
 ## Networking
 
-----
+## Do it!
 
-## examples:
-
-### links
-
-[google](http://google.com)
-
-### lists
-
-* unordered
-* unordered
-
-1. ordered
-1. ordered
+This isn't directed at anyone in particular. Any developer, new or old, who has trouble jumping in will hopefully get the push needed to go out and do something. I am sure to keep this page bookmarked to remind myself to do these things as well.
